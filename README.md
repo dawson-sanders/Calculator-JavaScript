@@ -11,5 +11,6 @@ This is a simple calculator that does operations such as addition, subtraction, 
 Use mouse to click on the numbers or symbols
 
 ## Demo
-https://user-images.githubusercontent.com/95600754/213032343-f88a2007-3fb2-4682-8db0-5737c8e3af00.mov
+https://user-images.githubusercontent.com/95600754/213032467-961adc41-9b1b-4ec2-add5-31e0545c9fc0.mov
+
 
